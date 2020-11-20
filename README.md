@@ -1,7 +1,7 @@
 ## Projeto Integrador 6 - Univesp (Polo Araras - Novembro de 2020)
 
 ![index](https://github.com/geosidnei/UnivespEng-videosPI6/blob/main/indexPage.png)
-Esta é uma página da web feita apenas em HTML e CSS que contém links para videoaulas de Mecânica dos Fluidos. O grupo fez esta web page simples como um video-curso para a disciplina de engenharia mencionada acima e o hospedou no firebase. Se você quiser ver o aplicativo funcionando acesse: 
+<b> Esta é uma página da web feita apenas em HTML e CSS que contém links para videoaulas de Mecânica dos Fluidos. O grupo fez esta web page simples como um video-curso para a disciplina de engenharia mencionada acima e o hospedou no firebase. Se você quiser ver o aplicativo funcionando acesse: 
 https://eng-videos.firebaseapp.com.
 
 This is a web page made only with html and css that contain links to Fluid Mechanics video classes. The group made this web page simple as a video course for the engineering discipline mentioned above and hosted it on firebase. If you want to see the application working go to: 
